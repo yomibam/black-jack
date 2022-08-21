@@ -1,0 +1,32 @@
+h1 {
+    color: goldenrod;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+#message-el{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.bg {
+    background-color: green;
+    width: 50%;
+    height: 40%;
+    margin: 0 auto;
+}
+
+button {
+    background-color: goldenrod;
+    color: green;
+    position: relative;
+    width: 30%;
+    margin:  0 35%;
+    
+}
